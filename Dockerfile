@@ -14,5 +14,5 @@ ADD init.sh /
 # Install 
 RUN bash setup.sh
 
-# start loggger
+# start logger
 CMD ["sh","/init.sh"]
