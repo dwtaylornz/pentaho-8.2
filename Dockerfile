@@ -7,7 +7,7 @@ RUN apt-get update && apt-get install -y \
   wget
 
 # Add setup and init scripts 
-COPY source/ /source/
+# COPY source/ /source/
 ADD setup.sh /
 ADD init.sh /
 
