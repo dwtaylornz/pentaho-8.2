@@ -5,4 +5,4 @@ wget -q -O pentaho-business-analytics.bin https://www.hitachivantara.com/bin/ser
 chmod a+x pentaho-business-analytics.bin
 
 # need answer file for installation 
-./pentaho-business-analytics.bin --mode text
+# ./pentaho-business-analytics.bin --mode text
